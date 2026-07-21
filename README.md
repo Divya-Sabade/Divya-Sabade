@@ -17,6 +17,6 @@ Building divya-dev-os, a stage-gated Claude Code workflow that takes an idea fro
 
 ### Elsewhere
 
-- Writing on Medium and Substack
-- LinkedIn: AI product strategy, evaluation, and agentic workflow breakdowns
-- I coach AI PMs, reach out if you're building in this space
+- Writing on Medium (https://medium.com/@sabade.divya) 
+- LinkedIn: AI Product Management Skills (https://www.linkedin.com/in/divyasabade/)
+- I coach AI PMs, reach out if you are new or building in this space
